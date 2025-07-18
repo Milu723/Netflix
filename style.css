@@ -321,8 +321,7 @@ nav button {
   flex-direction: column;
   color: white;
   border-radius: 18px;
-  width: 330px;
-  height: 300px;
+  width: 45vw;
   /* margin: 6px; */
   background: linear-gradient(120deg, #330548, #100018);
 }
@@ -362,7 +361,7 @@ nav button {
   }
   .container {
     width: 100vw;
-   height: 29vh;
+  
   }
   .container :nth-child(3) {
     align-self: flex-end;
